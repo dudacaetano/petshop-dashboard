@@ -11,7 +11,7 @@ Este projeto consiste em um dashboard interativo criado no Power BI para fins de
 - Indicadores de performance (KPIs).
 
 ## 🖼️ Preview do Dashboard:
-![Preview do Dashboard](imagens/dash-imgs.png)
+![Preview do Dashboard](imagens/dash-img.png)
 
 ## 📎 Arquivos:
 - `dashboard-vendas.pbix` → Projeto no Power BI.
